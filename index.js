@@ -1,5 +1,5 @@
-const snakeNames = require('snake-names')
-const snakeNames = require('snake-names')
+const snakeNames = require('snakeNames')
+const snakeNames = require('snakeNames')
 
 let namePicked = snakeNames.random()
 
